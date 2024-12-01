@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Dosti</string>
+    <string name="akshit_chetan_mangesh">Akshit, Chetan ,Mangesh</string>
+    <string name="welcome_n_back">Welcome \n Back</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="sign_n_up">Sign \n Up</string>
+    <string name="name">Name</string>
+    <string name="email_id">email</string>
+    <string name="pass">password</string>
+    <string name="Create_an_account">Create an Account</string>
+    <string name="already_have_an_account">Already have an account</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="todo">TODO</string>
+    <string name="please_create_a_room_code_name_and_share_the_code_with_your_friends_to_start_video_call_or_enter_the_code_of_the_room_you_want_to_join">Please Create a room code / Name and share the code with your friends to start video call or enter the code of the room you want to join</string>
+    <string name="room_code">Room Code</string>
+    <string name="join_create">Join/ create</string>
+    <string name="share">share</string>
+    <string name="logout">Logout</string>
+</resources>
